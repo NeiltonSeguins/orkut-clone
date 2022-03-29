@@ -1,1 +1,1 @@
-# orkut-clone
+# Projeto de clone do Orkut feito com Next Js
